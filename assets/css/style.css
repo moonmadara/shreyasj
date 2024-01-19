@@ -15,6 +15,7 @@ body {
   color: #fff;
   position: relative;
   background: transparent;
+  height: 100vh;
 }
 
 body::before {
